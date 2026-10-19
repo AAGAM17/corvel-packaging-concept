@@ -38,7 +38,7 @@ footer p + p { margin-top: .5rem; color: #bdb8ac; font-size: .9rem; }
 .chip[aria-pressed="true"] { background: var(--ink); color: var(--bg); }
 
 /* hero */
-.hero { padding: 56px 0 72px; border: 0; display: grid; grid-template-columns: 1.3fr 1fr; gap: 32px; align-items: center; }
+.hero { padding: 56px 24px 72px; border: 0; display: grid; grid-template-columns: 1.3fr 1fr; gap: 32px; align-items: center; }
 .hero h1 em { font-style: normal; color: var(--accent); }
 .hero .actions { margin-top: 2.5rem; display: flex; flex-wrap: wrap; gap: 20px; }
 
